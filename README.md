@@ -47,7 +47,7 @@ Target variable:
 
 ---
 
-## 👨 Author
+##  Author
 Muhammad Bilal Ashraf  
 BS Computer Science Student  
 Aspiring ML Engineer
